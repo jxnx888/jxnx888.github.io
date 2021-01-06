@@ -1,0 +1,63 @@
+{
+  "code": 200,
+  "data": {
+    "Kai Rong": {
+      "companyName": "Shanghai Kairong Information Technology Co., Lt",
+      "jobtitle": "Senior Front-end Developer",
+      "startDate": "2020/05",
+      "endDate": "Present",
+      "duration": "1 yr 8 mos",
+      "projects": [
+        {
+          "title": "Import Express - Ecommerce",
+          "img": "/image/projects/import.jpg",
+          "desc": "Online Shopping for Clothing, Mobile Phone, Computers, Jewelry, Beauty, Sports, Home and so on; Shopping on Our website For Small Businesses.",
+          "tags": "Development and maintenance, Javascript, Jquery, CSS3, HTML5, JSP, Thymeleaf",
+          "url": "https://www.import-express.com/",
+          "code": 0
+        },
+        {
+          "title": "Kids Charming - Ecommerce",
+          "img": "/image/projects/kids.jpg",
+          "desc": "China Wholesale Online, China Wholesale Suppliers, China Cheap Products for Children",
+          "tags": "Development and maintenance, Javascript, Jquery, CSS3, HTML5, JSP, Thymeleaf",
+          "url": "https://www.kidscharming.com/",
+          "code": 1
+        },
+        {
+          "title": "Pet Store - Ecommerce",
+          "img": "/image/projects/pet.jpg",
+          "desc": "China Wholesale Online, China Wholesale Suppliers, China Cheap Products for Pets",
+          "tags": "Development and maintenance, Javascript, Jquery, CSS3, HTML5, JSP, Thymeleaf",
+          "url": "https://www.petstoreinc.com/",
+          "code": 2
+        },
+        {
+          "title": "Magic Box - App for Children",
+          "img": "/image/home/3dprinting.jpg",
+          "desc": "MagicBox for kids education based on Three.js. Build modules by using default geometries",
+          "tags": "Development and maintenance, Android, iOS, Three.js, Javascript, Jquery, CSS3, HTML5",
+          "url": "/threeDimensionalBuilder",
+          "code": 3
+        }
+      ]
+    },
+    "Yuan Dian": {
+      "companyName": "Yuan Dian Hu Dong Technology Co., Ltd",
+      "jobtitle": "Junior Front-end Developer",
+      "startDate": "2018/05",
+      "endDate": "2018/09",
+      "duration": "3 mos",
+      "projects": [
+        {
+          "title": "Import Express - Ecommerce",
+          "img": "/image/projects/import.jpg",
+          "desc": "Online Shopping for Clothing, Mobile Phone, Computers, Jewelry, Beauty, Sports, Home and so on; Shopping on Our website For Small Businesses.",
+          "tags": "Development and maintainance, Jquery, CSS3, HTML5, JSP, Thymeleaf"
+        }
+      ]
+    }
+  },
+  "companyName": []
+}
+
