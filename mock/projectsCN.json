@@ -7,10 +7,10 @@
       "jobtitle": "高级前端开发人员",
       "responsibilities": [
         "作为项目经理助理，管理前端团队.",
-        "通过Vue.js来开发新版本的电商网站.",
-        "与UX/UI设计师和产品经理密切合作，开发响应快、性能高、易访问、可靠的电子商务网站。",
         "使用HTML, CSS, JQuery, JSP, Thymeleaf等维护现有的三个电商网站.",
-        "使用three.js开发纯前端的行李箱涂鸦项目，以及3D打印机配套App"
+        "通过Vue.js来开发新版本的电商网站.",
+        "与UX/UI设计师和产品经理密切合作，开发响应快、性能高、易访问、可靠的电子商务网站.",
+        "使用three.js开发纯前端的3D打印机，以及行李箱涂鸦项目的配套App."
       ],
       "startDate": "2020/05",
       "endDate": "至今",
@@ -46,6 +46,10 @@
           "desc": "MagicBox是针对于小孩教育的一款Three.js的App, 用户可以使用默认的几何模型或者卡通模型来搭建模型",
           "tags": "开发和维护, Android, iOS, Three.js, Javascript, Jquery, CSS3, HTML5",
           "url": "/threeDimensionalBuilder",
+          "storeUrlQr": {
+            "ios": "/image/qr/magicboxQR.png",
+            "android": ""
+          },
           "code": 3
         },
         {
