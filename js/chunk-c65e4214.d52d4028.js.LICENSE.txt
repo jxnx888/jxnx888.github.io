@@ -1,0 +1,4 @@
+/**!
+ * The code below uses open source software. Please visit the URL below for an overview of the licenses: 
+ * https://sdk.venues.here.com/v3/3.1/HERE_NOTICE 
+ */
