@@ -1,427 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48267c20-1c5f-4179-a0ed-4b59d5bb4e66" name="Default Changelist" comment="test">
+    <list default="true" id="48267c20-1c5f-4179-a0ed-4b59d5bb4e66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/file/XINNING-Resume-Web.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/app.99dfa7c1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/chunk-00fe149f.5b0ef21f.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/chunk-07dbee4c.af4856c2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/chunk-2c32f860.7d05fe0b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/app.07d2c861.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chunk-00fe149f.0f9b4c45.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chunk-07dbee4c.e6d5b614.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chunk-22c576ad.ff9aad45.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chunk-2c32f860.3db7553b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chunk-2d0a3577.39ea0e79.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chunk-4034ba72.cab22b0d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chunk-44ae70ac.eaeb0969.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chunk-5a0bbf0f.7446da9b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chunk-77ec0f84.f73b34ce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/runtime.fa17a51f.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/app.5af91b8b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/app.796a4bf4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-0db9c948.1939a48b.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/chunk-77ec0f84.1939a48b.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/chunk-15ad4572.41ca8ea8.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/chunk-2819ca21.09dae2a2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-392a8890.fcbf7000.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-4f3b7e5e.dd7636cd.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-7029d9b2.1c6529b4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-392a8890.fcbf7000.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/chunk-392a8890.fcbf7000.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-451975a6.88bfb1fc.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/chunk-22c576ad.88bfb1fc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-4f3b7e5e.dd7636cd.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/chunk-4034ba72.dd7636cd.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/chunk-a98753c2.0d9c0ccb.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-b9859f0e.ae521140.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-c65e4214.278afac9.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/chunk-44ae70ac.86414a43.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-d94ddb4c.ae002d66.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-eb4c6072.ae002d66.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-ef21213c.91dd8311.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-f86d7636.32e2ab11.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/chunk-vendors.211f35fb.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/XinNing-Resume-CN.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/SimHei_Regular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/optimer_regular.typeface.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/element-icons.535877f5.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/element-icons.732389de.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/hkfyw7gb.8c61bf26.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/chunk-vendors.255471a7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/XinNing-Resume-CN.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/file/XinNing-Resume-CN.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/SimHei_Regular.json" beforeDir="false" afterPath="$PROJECT_DIR$/font/SimHei_Regular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/element-icons.535877f5.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/element-icons.535877f5.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/element-icons.732389de.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/element-icons.732389de.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/hkfyw7gb.8c61bf26.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/hkfyw7gb.8c61bf26.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.49a4f8f1.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/iconfont.49a4f8f1.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/iconfont.60163c52.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/iconfont.60163c52.woff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fonts/iconfont.68790833.eot" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fonts/iconfont.6aaf1fcf.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fonts/iconfont.c08d4452.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/webfont.6267df7e.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/webfont.d2bbe787.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/webfont.dcb28835.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/btn_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/btn_bg_blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/btn_close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/btn_no.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/btn_print.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/btn_shop_buy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/btn_yes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/btn_yes1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/module_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/module_example.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/module_param.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/new_module.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/shapes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_ball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_bulbasaur.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_charmander.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_chikorita.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_climbing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_cone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_cube.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_cylinder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_doughnut.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_fivepointstar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_hollowcylinder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_lying.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_pikachu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_prismatic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_pyramid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_sitting.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_squirtle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_standing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_text.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_totodile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_triprism.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/3dPrinting/sprint_tyrannosaurusRex.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/active_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/3dBuilder/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/banner1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/banner2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/banner3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/contact/icon_email.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/contact/icon_email_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/contact/icon_phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/contact/icon_phone_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/20.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/23.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/34.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/36.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/37.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/43.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/44.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/45.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/46.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/47.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/48.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/49.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/51.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/52.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/53.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/54.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/back_dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/back_forward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/back_grey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/back_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/forward_dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/forward_grey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/forward_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/grasslight-big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/decals/showmore.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/dot.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/footer/icon_facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/footer/icon_facebook_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/footer/icon_github.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/footer/icon_github_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/footer/icon_linkedin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/footer/icon_linkedin_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/footer/icon_wechat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/footer/icon_wechat_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/footer/wechat_xin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/head_ico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/webfont.6267df7e.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/webfont.6267df7e.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/webfont.d2bbe787.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/webfont.d2bbe787.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/webfont.dcb28835.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/webfont.dcb28835.eot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/image/head_ico1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/3dprinting.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/3dprinting1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/FULogo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/aboutme.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/aboutme1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/aboutme2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/fairfieldLogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/fairfielduniversity.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/hkc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/keep-learning.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/last_work1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/last_work2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/last_work3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/last_work4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/luggage_decal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/myprojects.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/home/myskills.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/meteorshower.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/projects/import.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/projects/kids.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/projects/luggage.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/projects/magicBox.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/projects/mice.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/projects/pet.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/projects/title_decorate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/qr/magicboxQR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/skills/random.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/skills/random.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/aoYe/show.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/chengWeiWangHong/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/chengWeiWangHong/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/chengWeiWangHong/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/chengWeiWangHong/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/chengWeiWangHong/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/chengWeiWangHong/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/chengWeiWangHong/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/chengWeiWangHong/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/chengWeiWangHong/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/chengWeiWangHong/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/chengWeiWangHong/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/chengWeiWangHong/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/iphonex.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/baiyang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/chunv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/jinniu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/juxie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/mojie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/sheshou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/shizi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/show.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/shuangyu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/shuangzi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/shuiping.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/tianping.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/jieMiNiDeZhuanShuXingZuoDNA/tianxie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/aiQingYuE.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/aoye.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/beianlian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/bennianguanjiaNACI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/bennianguanjianci.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/ceShiNiNeiWaiXingGeQuestion.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/chengJiDan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/chengweiwanghong.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/chihuoleixing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/daZiBao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/guanjianci.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/jieMiNiDeZhuanShuXingZuoDNA.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/jieMiNiDeZhuanShuXingZuoDNAQuestion.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/lianAIChengJiDan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/lingHunBanLv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/linghunlianren.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/lingyiban.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/naGeChengShiTD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/nagexingqiu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niDaoDiYouDuoNanZhuiQuestion.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niDeFanLiangCJD.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niDeNeiXinJieGouTu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niDeQianShiShenFen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niDeShenJiaDan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niDeXingGeBiaoQianShi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niDeXingZuoMP.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niDeZhiZuoPeiFangShi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niHaiHuiQiongDuoJiu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niKaoShenMeChiFan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niXiangFuLianLiDeShui.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niYuLingYiBanJuLiDuoYuan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niZuiShiHeShenMeWH.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/niZuiXiangShenMeDW.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/nidezhenai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/nijinnianhuiyudaoshenmeyangdeyouyuanren.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/nizaiyixingyanli.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/renQianRenHou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/renShengJingLi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/sangeliyou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/search_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/shangDiChuangZao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/shengChengWoDeXZMP.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/shiErXingZuoDeSanJianShi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/shibushihetanlianai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/shuangmianxingge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/taoHuaQian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/test.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/test.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/test1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/ticket-wordCup.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/tongGuoShouZhiKXG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/topMenu/aoYe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/topMenu/chengWeiWangHong.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/topMenu/lingfu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/topMenu/niHaiHuiQiongDuoJiu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/topMenu/niZuiShiHeShenMeWH.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/topMenu/shengChengWoDeXZMP.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/topMenu/weilaisannian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/topMenu/zuoYouNaoFZBaoGao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/wangZheRY.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/weilaisannian.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/wordCupShow.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/xinLiXingBie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/xingge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/xingmingpeidui.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/xingzuoyaoguai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/yinXiangChengJiDan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/youDuoShaoRenBeiHou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/zhenxinjiazhi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/zhnexinjiazhi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/zidaimeilixing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/zuoYouNaoFZBaoGao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/menu/zuoyounao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niHaiHuiQiongDuoJiu/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niZuiShiHeShenMeWH/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niZuiShiHeShenMeWH/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niZuiShiHeShenMeWH/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niZuiShiHeShenMeWH/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niZuiShiHeShenMeWH/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/niZuiShiHeShenMeWH/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/search_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shangDiChuangZao/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shangDiChuangZao/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shangDiChuangZao/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shangDiChuangZao/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shangDiChuangZao/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shangDiChuangZao/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shangDiChuangZao/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shangDiChuangZao/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shangDiChuangZao/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shangDiChuangZao/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shangDiChuangZao/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shangDiChuangZao/show.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shengChengWoDeXZMP/baiyang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shengChengWoDeXZMP/chunv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shengChengWoDeXZMP/jinniu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shengChengWoDeXZMP/juxie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shengChengWoDeXZMP/mojie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shengChengWoDeXZMP/sheshou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shengChengWoDeXZMP/shizi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shengChengWoDeXZMP/show.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shengChengWoDeXZMP/shuangyu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shengChengWoDeXZMP/shuangzi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shengChengWoDeXZMP/shuiping.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shengChengWoDeXZMP/tianping.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shengChengWoDeXZMP/tianxie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shiErXingZuoDeSanJianShi/baiyang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shiErXingZuoDeSanJianShi/chunv.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shiErXingZuoDeSanJianShi/jinniu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shiErXingZuoDeSanJianShi/juxie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shiErXingZuoDeSanJianShi/mojie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shiErXingZuoDeSanJianShi/sheshou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shiErXingZuoDeSanJianShi/shizi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shiErXingZuoDeSanJianShi/shuangyu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shiErXingZuoDeSanJianShi/shuangzi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shiErXingZuoDeSanJianShi/shuiping.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shiErXingZuoDeSanJianShi/tianping.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/shiErXingZuoDeSanJianShi/tianxie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/zuoYouNaoFZBaoGao/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/zuoYouNaoFZBaoGao/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/zuoYouNaoFZBaoGao/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/zuoYouNaoFZBaoGao/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/zuoYouNaoFZBaoGao/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/zuoYouNaoFZBaoGao/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/zuoYouNaoFZBaoGao/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/yuandian/zuoYouNaoFZBaoGao/8.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/img/iconfont.bb7f6f4a.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/webfont.eef7389d.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.6c6f029b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.6c6f029b.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-15ad4572.931fc892.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-15ad4572.931fc892.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2819ca21.daec1980.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2819ca21.daec1980.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d0a3577.c5c77bed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d0a3577.c5c77bed.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-392a8890.db686394.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-392a8890.db686394.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-4f3b7e5e.ccd2b242.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-4f3b7e5e.ccd2b242.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-7029d9b2.26a0282b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-7029d9b2.26a0282b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/webfont.eef7389d.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/webfont.eef7389d.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.875438e8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.875438e8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.b6bfe3d1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.b6bfe3d1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-0db9c948.58823ed8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-0db9c948.58823ed8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-15ad4572.48033fe7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-15ad4572.48033fe7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-2819ca21.abab3e70.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-2819ca21.abab3e70.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-2c313f7c.5463622c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-2c313f7c.5463622c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-2d0a3577.e8ec012d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-2d0a3577.e8ec012d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-2d0a3577.f67d210f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-2d0a3577.f67d210f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-392a8890.c3cb3a7f.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/chunk-392a8890.fb5fe1a4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-392a8890.c3cb3a7f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-392a8890.d0fb8bba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-392a8890.d0fb8bba.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-451975a6.04be4367.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-451975a6.04be4367.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-4f3b7e5e.40c6c3ed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-4f3b7e5e.40c6c3ed.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-4f3b7e5e.dc40a857.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-4f3b7e5e.dc40a857.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/js/chunk-7998db36.beca5a3e.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/js/chunk-7998db36.beca5a3e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-a98753c2.c54cc70e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-a98753c2.c54cc70e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-b9859f0e.a5d7e505.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-b9859f0e.a5d7e505.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-a98753c2.151a1521.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-a98753c2.151a1521.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-c65e4214.d52d4028.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-c65e4214.d52d4028.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-c65e4214.d52d4028.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-d94ddb4c.87ef4765.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-d94ddb4c.87ef4765.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-eb4c6072.0e4b1735.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-eb4c6072.0e4b1735.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-ef21213c.a5d6267e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-ef21213c.a5d6267e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-f86d7636.0e37ffee.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-f86d7636.0e37ffee.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.4959c393.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.4959c393.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/app.07d2c861.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.4959c393.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/js/chunk-vendors.db726bb5.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/js/chunk-vendors.db726bb5.js.LICENSE.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/js/chunk-vendors.db726bb5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock/aboutme.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock/aboutmeCN.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock/index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock/moduleList.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock/projects.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock/projectsCN.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock/yuandian.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/stl/ascii/climbing.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/stl/ascii/five-point-star.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/stl/ascii/luggage.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/stl/ascii/lying.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/stl/ascii/pokemon/bulbasaur_starter_1gen_flowalistik.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/stl/ascii/pokemon/charmander_starter_1gen_flowalistik.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/stl/ascii/pokemon/chikorita_starter_2gen_flowalistik.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/stl/ascii/pokemon/pikachu_1gen_flowalistik.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/stl/ascii/pokemon/squirtle_starter_1gen_flowalistik.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/stl/ascii/pokemon/totodile_starter_2gen_flowalistik.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/stl/ascii/sitting.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/stl/ascii/standing.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/stl/ascii/tyrannosaurusRex.stl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threejs/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threejs/js/DecalGeometry.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threejs/js/OrbitControls.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threejs/js/STLExporter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threejs/js/STLLoader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threejs/js/dat.gui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threejs/js/jquery.lazyload.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threejs/js/jquery1.11.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threejs/js/luggage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threejs/js/three.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/threejs/luggage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mock/moduleList.json" beforeDir="false" afterPath="$PROJECT_DIR$/mock/moduleList.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -434,6 +112,7 @@
   <component name="ProjectId" id="1qt9JiG91IUYHjqRcZ5b2QMYZky" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -444,8 +123,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/file" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\jxnx888.github.io\file" />
+      <recent name="F:\Projects\jxnx888.github.io" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -458,6 +143,8 @@
       <workItem from="1617887950088" duration="20000" />
       <workItem from="1617891046290" duration="2692000" />
       <workItem from="1618194472242" duration="478000" />
+      <workItem from="1636992843074" duration="721000" />
+      <workItem from="1640279164471" duration="749000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1617888229415</created>
@@ -487,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617931044676</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2021/11/15 Mobile">
+      <created>1636992918172</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636992918172</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,6 +204,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="1" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="2021/11/15 Mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/11/15 Mobile" />
   </component>
 </project>
