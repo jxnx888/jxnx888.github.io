@@ -1,105 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="48267c20-1c5f-4179-a0ed-4b59d5bb4e66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/file/XINNING-Resume-Web.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/app.99dfa7c1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/chunk-00fe149f.5b0ef21f.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/chunk-07dbee4c.af4856c2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/chunk-2c32f860.7d05fe0b.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/app.07d2c861.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chunk-00fe149f.0f9b4c45.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chunk-07dbee4c.e6d5b614.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chunk-22c576ad.ff9aad45.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chunk-2c32f860.3db7553b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chunk-2d0a3577.39ea0e79.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chunk-4034ba72.cab22b0d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chunk-44ae70ac.eaeb0969.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chunk-5a0bbf0f.7446da9b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chunk-77ec0f84.f73b34ce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/runtime.fa17a51f.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/app.5af91b8b.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/app.796a4bf4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-0db9c948.1939a48b.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/chunk-77ec0f84.1939a48b.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-15ad4572.41ca8ea8.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-2819ca21.09dae2a2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-392a8890.fcbf7000.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/chunk-392a8890.fcbf7000.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-451975a6.88bfb1fc.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/chunk-22c576ad.88bfb1fc.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-4f3b7e5e.dd7636cd.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/chunk-4034ba72.dd7636cd.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-a98753c2.0d9c0ccb.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-c65e4214.278afac9.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/chunk-44ae70ac.86414a43.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-d94ddb4c.ae002d66.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-eb4c6072.ae002d66.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-ef21213c.91dd8311.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-f86d7636.32e2ab11.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-vendors.211f35fb.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/chunk-vendors.255471a7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/XinNing-Resume-CN.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/file/XinNing-Resume-CN.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/SimHei_Regular.json" beforeDir="false" afterPath="$PROJECT_DIR$/font/SimHei_Regular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/element-icons.535877f5.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/element-icons.535877f5.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/element-icons.732389de.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/element-icons.732389de.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/hkfyw7gb.8c61bf26.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/hkfyw7gb.8c61bf26.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.49a4f8f1.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/iconfont.49a4f8f1.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.60163c52.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/iconfont.60163c52.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.68790833.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.6aaf1fcf.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/iconfont.c08d4452.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/webfont.6267df7e.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/webfont.6267df7e.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/webfont.d2bbe787.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/webfont.d2bbe787.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/webfont.dcb28835.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/webfont.dcb28835.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/head_ico1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/iconfont.bb7f6f4a.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/webfont.eef7389d.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/webfont.eef7389d.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.875438e8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.875438e8.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.b6bfe3d1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.b6bfe3d1.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-0db9c948.58823ed8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-0db9c948.58823ed8.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-15ad4572.48033fe7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-15ad4572.48033fe7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2819ca21.abab3e70.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2819ca21.abab3e70.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2c313f7c.5463622c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2c313f7c.5463622c.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d0a3577.e8ec012d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d0a3577.e8ec012d.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d0a3577.f67d210f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-2d0a3577.f67d210f.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-392a8890.c3cb3a7f.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/chunk-392a8890.fb5fe1a4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-392a8890.c3cb3a7f.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-392a8890.d0fb8bba.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-392a8890.d0fb8bba.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-451975a6.04be4367.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-451975a6.04be4367.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-4f3b7e5e.40c6c3ed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-4f3b7e5e.40c6c3ed.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-4f3b7e5e.dc40a857.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-4f3b7e5e.dc40a857.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-7998db36.beca5a3e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-7998db36.beca5a3e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-a98753c2.151a1521.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-a98753c2.151a1521.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-c65e4214.d52d4028.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-c65e4214.d52d4028.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-c65e4214.d52d4028.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-d94ddb4c.87ef4765.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-d94ddb4c.87ef4765.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-eb4c6072.0e4b1735.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-eb4c6072.0e4b1735.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-ef21213c.a5d6267e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-ef21213c.a5d6267e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-f86d7636.0e37ffee.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-f86d7636.0e37ffee.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.4959c393.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.4959c393.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/app.07d2c861.js.LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.4959c393.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.db726bb5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.db726bb5.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/chunk-vendors.db726bb5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mock/moduleList.json" beforeDir="false" afterPath="$PROJECT_DIR$/mock/moduleList.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,13 +29,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/file" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Projects\jxnx888.github.io\file" />
       <recent name="F:\Projects\jxnx888.github.io" />
+      <recent name="F:\Projects\jxnx888.github.io\file" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -144,7 +54,7 @@
       <workItem from="1617891046290" duration="2692000" />
       <workItem from="1618194472242" duration="478000" />
       <workItem from="1636992843074" duration="721000" />
-      <workItem from="1640279164471" duration="749000" />
+      <workItem from="1640279164471" duration="1217000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1617888229415</created>
@@ -181,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636992918172</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2021/12/23 update">
+      <created>1640279944432</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1640279944432</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2021/12/23 update resume">
+      <created>1640280220495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1640280220495</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +129,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="test" />
     <MESSAGE value="2021/11/15 Mobile" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021/11/15 Mobile" />
+    <MESSAGE value="2021/12/23 update" />
+    <MESSAGE value="2021/12/23 update resume" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021/12/23 update resume" />
   </component>
 </project>
