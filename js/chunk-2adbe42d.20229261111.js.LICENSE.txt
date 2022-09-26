@@ -1,0 +1,9 @@
+/*!
+ * fireworks-js 1.3.5 by Vitalij Ryndin (https://crashmax.ru)
+ * https://fireworks.js.org
+ * License MIT
+ */
+
+//! moment.js
+
+//! moment.js locale configuration
